@@ -1,2 +1,3 @@
 https://nikaalinejad.github.io/WebDev_Lab6/
-Followed the guidelines based on the lab requirements.
+
+The website follows the guidelines based on the lab requirements.
